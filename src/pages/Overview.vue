@@ -347,6 +347,28 @@
         <div class="card-content">
           <div class="media">
             <div class="media-content">
+              <p class="title is-4">Cache</p>
+            </div>
+          </div>
+
+          <div class="content">
+            <ul>
+              <li>
+                <router-link to="/cache-calc"
+                  >Cache Calc</router-link
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="column is-one-third">
+      <div class="card">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-content">
               <p class="title is-4">GitHub</p>
             </div>
           </div>
